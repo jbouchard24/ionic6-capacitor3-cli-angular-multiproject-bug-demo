@@ -1,0 +1,21 @@
+{
+  "defaultProject": "app1",
+  "projects": {
+    "app1": {
+      "name": "App 1",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "projects/app1"
+    },
+    "app2": {
+      "name": "App 2",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "projects/app2"
+    }
+  }
+}
