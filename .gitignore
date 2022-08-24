@@ -31,4 +31,3 @@ npm-debug.log*
 /plugins
 /projects/app1/node_modules
 /projects/app2/node_modules
-/www
